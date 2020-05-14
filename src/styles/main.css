@@ -1,0 +1,13 @@
+html {
+    /*background: url(../images/background.jpeg) no-repeat center center fixed;*/
+    background: url(../images/background.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*Adding Google Fonts for Brand in Navigation Bar*/
+a.navbar-brand {
+    font-family: 'Cinzel Decorative', cursive;
+}
